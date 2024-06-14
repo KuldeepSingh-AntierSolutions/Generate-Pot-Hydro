@@ -31,9 +31,11 @@ public class Sessions
 	            websites.add("https://stupendous-strudel-736574.netlify.app");
 	            websites.add("https://cheery-praline-8d65d4.netlify.app");
 	            websites.add("https://added-to-multiple-accounts.netlify.app");
+	            websites.add("https://serene-puppy-fb39a1.netlify.app");
 	                
 	            websites.add("https://cute-fox-52d358.netlify.app");
 	            websites.add("https://sweet-quokka-7fab8a.netlify.app");
+	            websites.add("https://unrivaled-travesseiro-38a93b.netlify.app");
 	            
 	            websites.add("https://teal-medovik-5f8dd8.netlify.app/");
 	            websites.add("https://eclectic-cassata-8d303e.netlify.app");
@@ -61,14 +63,14 @@ public class Sessions
 				
 	            handles=new ArrayList<>(driver.getWindowHandles());
 	            
-	            for(int r=0;r<20;r++)
+	            for(int r=0;r<10;r++)
 	            {
 		    	   	for(String handle:handles)
 	   				{
 	   					driver.switchTo().window(handle);	
 	   					Thread.sleep(100);
 	   					driver.findElement(By.xpath("//button[@id='myButton']")).click();
-	   					Thread.sleep(5000);
+	   					Thread.sleep(10000);
 	   				}
 	            }
 	        driver.quit();
