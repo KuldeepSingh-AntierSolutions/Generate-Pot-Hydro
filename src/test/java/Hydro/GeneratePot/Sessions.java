@@ -61,14 +61,14 @@ public class Sessions
 				
 	            handles=new ArrayList<>(driver.getWindowHandles());
 	            
-	            for(int r=0;r<1;r++)
+	            for(int r=0;r<20;r++)
 	            {
 		    	   	for(String handle:handles)
 	   				{
 	   					driver.switchTo().window(handle);	
 	   					Thread.sleep(100);
 	   					driver.findElement(By.xpath("//button[@id='myButton']")).click();
-	   					Thread.sleep(1000);
+	   					Thread.sleep(5000);
 	   				}
 	            }
 	        driver.quit();
