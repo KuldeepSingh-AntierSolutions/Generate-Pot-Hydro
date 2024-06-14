@@ -2,6 +2,7 @@ package Hydro.GeneratePot;
 
 import java.time.Duration;
 import java.util.ArrayList;
+import java.util.Random;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -62,6 +63,7 @@ public class Sessions
 					Thread.sleep(100);
 				
 	            handles=new ArrayList<>(driver.getWindowHandles());
+	           
 	            
 	            for(int r=0;r<10;r++)
 	            {
@@ -70,7 +72,10 @@ public class Sessions
 	   					driver.switchTo().window(handle);	
 	   					Thread.sleep(100);
 	   					driver.findElement(By.xpath("//button[@id='myButton']")).click();
-	   					Thread.sleep(10000);
+	   					Random rand = new Random();
+	   					int randomNumber = rand.nextInt(30000) + 1;
+	   					System.out.println(randomNumber);
+	   					Thread.sleep(randomNumber);
 	   				}
 	            }
 	        driver.quit();
