@@ -48,6 +48,11 @@ public class Sessions
 	            websites.add("https://lucky-kataifi-ccc848.netlify.app");		// skuldeepsingh
 	            websites.add("https://gleeful-pothos-df7487.netlify.app");
 	            
+	            //prod
+	            websites.add("https://majestic-mermaid-6c6ceb.netlify.app"); //kuldeep.singh
+	            websites.add("https://cute-pithivier-4d8c76.netlify.app");
+	            websites.add("https://rococo-piroshki-da9290.netlify.app");  // skuldeepsingh
+	            
 	     
 	        	
             		while(!websites.isEmpty())
