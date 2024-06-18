@@ -42,6 +42,8 @@ public class Sessions
 	            websites.add("https://eclectic-cassata-8d303e.netlify.app");
 	            websites.add("https://luxury-cassata-a1a429.netlify.app");
 	            
+	            websites.add("https://playful-pithivier-64b681.netlify.app");
+	            
 	            // uat
 	            websites.add("https://fluffy-mandazi-8c011c.netlify.app");		// kuldeep.singh
 	            websites.add("https://velvety-brigadeiros-94e96e.netlify.app"); // uat@yopmail.com
