@@ -43,6 +43,7 @@ public class Sessions
 	            websites.add("https://luxury-cassata-a1a429.netlify.app");
 	            
 	            websites.add("https://playful-pithivier-64b681.netlify.app");
+	            websites.add("https://polite-melba-59fde8.netlify.app");
 	            
 	            // uat
 	            websites.add("https://fluffy-mandazi-8c011c.netlify.app");		// kuldeep.singh
