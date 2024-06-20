@@ -50,7 +50,7 @@ public class Sessions
 	            websites.add("https://velvety-brigadeiros-94e96e.netlify.app"); // uat@yopmail.com
 	            websites.add("https://lucky-kataifi-ccc848.netlify.app");		// skuldeepsingh
 	            websites.add("https://gleeful-pothos-df7487.netlify.app");
-	            
+	            websites.add("https://glittery-douhua-fbc8ef.netlify.app");     // dhananjay	            
 	            //prod
 	            websites.add("https://majestic-mermaid-6c6ceb.netlify.app"); //kuldeep.singh
 	            websites.add("https://cute-pithivier-4d8c76.netlify.app");
