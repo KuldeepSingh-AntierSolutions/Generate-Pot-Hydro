@@ -45,6 +45,10 @@ public class Sessions
 	            websites.add("https://playful-pithivier-64b681.netlify.app");
 	            websites.add("https://polite-melba-59fde8.netlify.app");
 	            
+	            websites.add("https://remarkable-treacle-4907b1.netlify.app/");
+	            websites.add("https://effulgent-sundae-13bf58.netlify.app");
+	            websites.add("https://remarkable-treacle-4907b1.netlify.app");
+	            
 	            // uat
 	            websites.add("https://fluffy-mandazi-8c011c.netlify.app");		// kuldeep.singh
 	            websites.add("https://velvety-brigadeiros-94e96e.netlify.app"); // uat@yopmail.com
