@@ -51,7 +51,8 @@ public class Sessions
 	            websites.add("https://lucky-kataifi-ccc848.netlify.app");		// skuldeepsingh
 	            websites.add("https://gleeful-pothos-df7487.netlify.app");
 	            websites.add("https://spiffy-madeleine-af5144.netlify.app");
-	            websites.add("https://glittery-douhua-fbc8ef.netlify.app");     // dhananjay	 
+	            websites.add("https://glittery-douhua-fbc8ef.netlify.app");     // dhananjay	
+	            websites.add("https://capable-boba-03a124.netlify.app");		// leezasingh11
 	           
 	            //prod
 	            websites.add("https://majestic-mermaid-6c6ceb.netlify.app"); //kuldeep.singh
