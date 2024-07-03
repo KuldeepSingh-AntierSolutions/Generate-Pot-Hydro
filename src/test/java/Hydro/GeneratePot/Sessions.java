@@ -48,6 +48,8 @@ public class Sessions
 	            websites.add("https://remarkable-treacle-4907b1.netlify.app/");
 	            websites.add("https://effulgent-sundae-13bf58.netlify.app");
 	            websites.add("https://remarkable-treacle-4907b1.netlify.app");
+	         
+	            websites.add("https://thriving-sfogliatella-8da912.netlify.app");
 	            
 	            // uat
 	            websites.add("https://fluffy-mandazi-8c011c.netlify.app");		// kuldeep.singh
