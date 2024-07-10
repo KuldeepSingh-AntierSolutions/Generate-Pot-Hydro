@@ -51,6 +51,8 @@ public class Sessions
 	         
 	            websites.add("https://thriving-sfogliatella-8da912.netlify.app");
 	            
+	            websites.add("https://peaceful-zuccutto-dc66da.netlify.app");
+	            websites.add("https://spiffy-granita-8c6aeb.netlify.app");
 	            // uat
 	            websites.add("https://fluffy-mandazi-8c011c.netlify.app");		// kuldeep.singh
 	            websites.add("https://velvety-brigadeiros-94e96e.netlify.app"); // uat@yopmail.com
