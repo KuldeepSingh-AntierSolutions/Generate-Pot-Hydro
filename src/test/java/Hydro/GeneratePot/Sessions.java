@@ -34,41 +34,41 @@ public class Sessions
 	            websites.add("https://added-to-multiple-accounts.netlify.app");
 	            websites.add("https://serene-puppy-fb39a1.netlify.app");
 	                
-//	            websites.add("https://cute-fox-52d358.netlify.app");
-//	            websites.add("https://sweet-quokka-7fab8a.netlify.app");
-//	            websites.add("https://unrivaled-travesseiro-38a93b.netlify.app");
-//	            
-//	            websites.add("https://teal-medovik-5f8dd8.netlify.app/");
-//	            websites.add("https://eclectic-cassata-8d303e.netlify.app");
-//	            websites.add("https://luxury-cassata-a1a429.netlify.app");
-//	            
-//	            websites.add("https://playful-pithivier-64b681.netlify.app");
-//	            websites.add("https://polite-melba-59fde8.netlify.app");
-//	            
-//	            websites.add("https://remarkable-treacle-4907b1.netlify.app/");
-//	            websites.add("https://effulgent-sundae-13bf58.netlify.app");
-//	            websites.add("https://remarkable-treacle-4907b1.netlify.app");
-//	         
-//	            websites.add("https://thriving-sfogliatella-8da912.netlify.app");
-//	            
-//	            websites.add("https://peaceful-zuccutto-dc66da.netlify.app");
-//	            websites.add("https://spiffy-granita-8c6aeb.netlify.app");
-//	            // uat
-//	            websites.add("https://fluffy-mandazi-8c011c.netlify.app");		// kuldeep.singh
-//	            websites.add("https://velvety-brigadeiros-94e96e.netlify.app"); // uat@yopmail.com
-//	            websites.add("https://lucky-kataifi-ccc848.netlify.app");		// skuldeepsingh
-//	            websites.add("https://gleeful-pothos-df7487.netlify.app");
-//	            websites.add("https://spiffy-madeleine-af5144.netlify.app");
-//	            websites.add("https://glittery-douhua-fbc8ef.netlify.app");     // dhananjay	
-//	            websites.add("https://capable-boba-03a124.netlify.app");		// leezasingh11
-//	            websites.add("https://ornate-cat-508290.netlify.app");	
-//	            websites.add("https://kaleidoscopic-cendol-25d1b7.netlify.app/");
-//	           
-//	            //prod
-//	            websites.add("https://majestic-mermaid-6c6ceb.netlify.app"); //kuldeep.singh
-//	            websites.add("https://cute-pithivier-4d8c76.netlify.app");
-//	            websites.add("https://rococo-piroshki-da9290.netlify.app");  // skuldeepsingh
-//	            websites.add("https://steady-concha-313303.netlify.app");    // publisher
+	            websites.add("https://cute-fox-52d358.netlify.app");
+	            websites.add("https://sweet-quokka-7fab8a.netlify.app");
+	            websites.add("https://unrivaled-travesseiro-38a93b.netlify.app");
+	            
+	            websites.add("https://teal-medovik-5f8dd8.netlify.app/");
+	            websites.add("https://eclectic-cassata-8d303e.netlify.app");
+	            websites.add("https://luxury-cassata-a1a429.netlify.app");
+	            
+	            websites.add("https://playful-pithivier-64b681.netlify.app");
+	            websites.add("https://polite-melba-59fde8.netlify.app");
+	            
+	            websites.add("https://remarkable-treacle-4907b1.netlify.app/");
+	            websites.add("https://effulgent-sundae-13bf58.netlify.app");
+	            websites.add("https://remarkable-treacle-4907b1.netlify.app");
+	         
+	            websites.add("https://thriving-sfogliatella-8da912.netlify.app");
+	            
+	            websites.add("https://peaceful-zuccutto-dc66da.netlify.app");
+	            websites.add("https://spiffy-granita-8c6aeb.netlify.app");
+	            // uat
+	            websites.add("https://fluffy-mandazi-8c011c.netlify.app");		// kuldeep.singh
+	            websites.add("https://velvety-brigadeiros-94e96e.netlify.app"); // uat@yopmail.com
+	            websites.add("https://lucky-kataifi-ccc848.netlify.app");		// skuldeepsingh
+	            websites.add("https://gleeful-pothos-df7487.netlify.app");
+	            websites.add("https://spiffy-madeleine-af5144.netlify.app");
+	            websites.add("https://glittery-douhua-fbc8ef.netlify.app");     // dhananjay	
+	            websites.add("https://capable-boba-03a124.netlify.app");		// leezasingh11
+	            websites.add("https://ornate-cat-508290.netlify.app");	
+	            websites.add("https://kaleidoscopic-cendol-25d1b7.netlify.app/");
+	           
+	            //prod
+	            websites.add("https://majestic-mermaid-6c6ceb.netlify.app"); //kuldeep.singh
+	            websites.add("https://cute-pithivier-4d8c76.netlify.app");
+	            websites.add("https://rococo-piroshki-da9290.netlify.app");  // skuldeepsingh
+	            websites.add("https://steady-concha-313303.netlify.app");    // publisher
 	            
 	     
 	        	
