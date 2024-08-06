@@ -98,7 +98,7 @@ public class Sessions
 	   					Thread.sleep(100);
 	   					driver.findElement(By.xpath("//button[@id='myButton']")).click();
 	   					Random rand = new Random();
-	   					int randomNumber = rand.nextInt(30000) + 1;
+	   					int randomNumber = rand.nextInt(30000) + 10;
 	   					System.out.println(randomNumber);
 	   					Thread.sleep(randomNumber);
 	   				}
