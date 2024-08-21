@@ -30,11 +30,24 @@ public class Sessions
 	           
 	            
 	            websites.add("https://3kuldeep-singh-12-08.netlify.app");
-	            websites.add("https://1skuldeepsingh-12-08.netlify.app");
-	            websites.add("https://kartik-saini-antier-13-08.netlify.app");
-	            websites.add("https://moonpaytest3-13-08.netlify.app");
 	            websites.add("https://kuldeep-singh-12-08.netlify.app");
+	            websites.add("https://kuldeep2-singh-12-08.netlify.app");
+	            
+	            websites.add("https://1skuldeepsingh-12-08.netlify.app");
+	            websites.add("https://2skuldeepsingh-21-08.netlify.app");
+	            
+	            websites.add("https://kartik-saini-antier-13-08.netlify.app");
+	            
+	            websites.add("https://moonpaytest3-13-08.netlify.app");
+	            websites.add("https://moonpay-2-test-21-08.netlify.app");
+	            websites.add("https://moonpay-3-test-21-08.netlify.app");
+	            websites.add("https://moonpay-4-test-21-08.netlify.app");
+	            
 	            websites.add("https://publisher-13-08.netlify.app");
+	            
+	           
+	            
+	            
 	            
 	            
 	            
