@@ -29,38 +29,38 @@ public class Sessions
 	            ArrayList<String> handles;
 	           
 	            
-	            websites.add("https://3kuldeep-singh-12-08.netlify.app");
-	            websites.add("https://kuldeep-singh-12-08.netlify.app");
-	            websites.add("https://kuldeep2-singh-12-08.netlify.app");
-	            
-	            websites.add("https://1skuldeepsingh-12-08.netlify.app");
-	            websites.add("https://2skuldeepsingh-21-08.netlify.app");
-	            
-	            websites.add("https://kartik-saini-antier-13-08.netlify.app");
-	            
-	            websites.add("https://moonpaytest3-13-08.netlify.app");
-	            websites.add("https://moonpay-2-test-21-08.netlify.app");
-	            websites.add("https://moonpay-3-test-21-08.netlify.app");
-	            websites.add("https://moonpay-4-test-21-08.netlify.app");
-	            
-	            websites.add("https://publisher-13-08.netlify.app");
-	            
-	           
-	            
-	            
-	            
-	            
-	            
-	            // uat
-	            websites.add("https://fluffy-mandazi-8c011c.netlify.app");		// kuldeep.singh
-	            websites.add("https://velvety-brigadeiros-94e96e.netlify.app"); // uat@yopmail.com
-	            websites.add("https://lucky-kataifi-ccc848.netlify.app");		// skuldeepsingh
-	            websites.add("https://gleeful-pothos-df7487.netlify.app");
-	            websites.add("https://spiffy-madeleine-af5144.netlify.app");
-	            websites.add("https://glittery-douhua-fbc8ef.netlify.app");     // dhananjay	
-	            websites.add("https://capable-boba-03a124.netlify.app");		// leezasingh11
-	            websites.add("https://ornate-cat-508290.netlify.app");	
-	            websites.add("https://kaleidoscopic-cendol-25d1b7.netlify.app/");
+//	            websites.add("https://3kuldeep-singh-12-08.netlify.app");
+//	            websites.add("https://kuldeep-singh-12-08.netlify.app");
+//	            websites.add("https://kuldeep2-singh-12-08.netlify.app");
+//	            
+//	            websites.add("https://1skuldeepsingh-12-08.netlify.app");
+//	            websites.add("https://2skuldeepsingh-21-08.netlify.app");
+//	            
+//	            websites.add("https://kartik-saini-antier-13-08.netlify.app");
+//	            
+//	            websites.add("https://moonpaytest3-13-08.netlify.app");
+//	            websites.add("https://moonpay-2-test-21-08.netlify.app");
+//	            websites.add("https://moonpay-3-test-21-08.netlify.app");
+//	            websites.add("https://moonpay-4-test-21-08.netlify.app");
+//	            
+//	            websites.add("https://publisher-13-08.netlify.app");
+//	            
+//	           
+//	            
+//	            
+//	            
+//	            
+//	            
+//	            // uat
+//	            websites.add("https://fluffy-mandazi-8c011c.netlify.app");		// kuldeep.singh
+//	            websites.add("https://velvety-brigadeiros-94e96e.netlify.app"); // uat@yopmail.com
+//	            websites.add("https://lucky-kataifi-ccc848.netlify.app");		// skuldeepsingh
+//	            websites.add("https://gleeful-pothos-df7487.netlify.app");
+//	            websites.add("https://spiffy-madeleine-af5144.netlify.app");
+//	            websites.add("https://glittery-douhua-fbc8ef.netlify.app");     // dhananjay	
+//	            websites.add("https://capable-boba-03a124.netlify.app");		// leezasingh11
+//	            websites.add("https://ornate-cat-508290.netlify.app");	
+//	            websites.add("https://kaleidoscopic-cendol-25d1b7.netlify.app/");
 	           
 	            //prod
 	            websites.add("https://majestic-mermaid-6c6ceb.netlify.app"); //kuldeep.singh
