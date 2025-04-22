@@ -67,7 +67,7 @@
    
 
   </dependencies>
-  <build>
+		  <build>
 				<pluginManagement>
 					<plugins>
 						<plugin>
@@ -80,7 +80,6 @@
 								</suiteXmlFiles>
 							</configuration>
 						</plugin>
-
 					</plugins>
 				</pluginManagement>
 			</build>
