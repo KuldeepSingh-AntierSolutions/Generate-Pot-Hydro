@@ -105,3 +105,14 @@ public class Sessions
 	    }
 	}
 
+// Steps to configure the trigger of the automations script when new commits are made to the test application repo 
+// 
+//1) Install Git plugin in Jenkins >> Manage Jenkins >> Plugins >> Available >> Git plugin
+//2) Also check if the git is installed on your machine using git --version
+//3) Create a Jenkins job, Jenkins dashboard >> New item >> Freestyle project 
+//4) Setup GitHub webhook to trigger for the automation script when any new changes are introduced in the test application repo, enable trigger in the Jenkins job for the automation script project- Goto the job >> Configure >> Build triggers >> Check GitHub hook trigger for GITScm polling >> Save
+//5) For initiating trigger from the test application repo- Goto GitHub repo for the application >> Settings >> Add webhook by filling up Payload URL, Content type: application/json, Which events: Just the push event >> Add webhook
+//	For the payload url: Download ngork and run >> run in ngrok terminal- ngrok http 8080 >> copy the forwarding url (which will be equivalent and publically accessible alternative to the localhost url) like: https://6ff3-182-73-190-216.ngrok-free.app 
+//6) Also specify for the Source code management- Jenkins job >> configure >> Source code management >> Specify repository url (of application repo) and credentials, and branch also
+//7) Now commit any changes to the test application repo >> it will trigger the automation script using webhook added to it >> which will get detected by the Jenkins job
+
